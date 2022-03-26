@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/",
-	"version" : "4",
+	"version" : "5",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -3347,7 +3347,7 @@
 			"md5": "240658b902c2f4d2683faafc0a2677c5"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "ca62dd80f1eecaf504953be6ae9d72e2"
+			"md5": "ac0990ad7915208a063c1e5b15de5ea3"
 		},
 		"src/NES/Home/RemoveADSLayer.js": {
 			"md5": "44f7b8888236dbe6e2b513af38a58197"
