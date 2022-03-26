@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/",
-	"version" : "3",
+	"version" : "4",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -14,7 +14,7 @@
 			"md5": "8773bf9ac99eab046c962f97b139fe63"
 		},
 		"project.json": {
-			"md5": "3bfd00d31a9ece52ccc526e834b63a9a"
+			"md5": "66b7bcfee4d906be8f2ff8464ed7d782"
 		},
 		"res/CoreData/Materials/DefaultNoTex.mat": {
 			"md5": "4b69fcf72a0a372923989e84ff94bb2e"
@@ -2461,6 +2461,9 @@
 		"res/snes/master/rom_arts/zombies_ate_my_neighbors_usa.jpg": {
 			"md5": "30796629086a34524d8e3ef68303553f"
 		},
+		"res/UI/button/.DS_Store": {
+			"md5": "be9bedd5f91089838af9ea62c9e7072b"
+		},
 		"res/UI/button/bg_button.png": {
 			"md5": "1ffc49ad4e40752538cd1b8a533ef13e"
 		},
@@ -2578,6 +2581,9 @@
 		"res/UI/Dialog.json": {
 			"md5": "bdede0d4b2ccf118d32df9b5dd2ffc5b"
 		},
+		"res/UI/digital_control/.DS_Store": {
+			"md5": "64040a438a21a4784d4ec9de53b360ef"
+		},
 		"res/UI/digital_control/lig_dpad_down.png": {
 			"md5": "9a97c33633914977ddd91052b1ed3193"
 		},
@@ -2604,6 +2610,9 @@
 		},
 		"res/UI/digital_control/lig_dpad_up_right.png": {
 			"md5": "cf4fe9e4a9988a5baf7c2835cc0f5d03"
+		},
+		"res/UI/fonts/.DS_Store": {
+			"md5": "c3e13f354e462acf033a3adb233a810b"
 		},
 		"res/UI/fonts/Arial-BoldMT.ttf": {
 			"md5": "ac8ce60bf9ef976a52176e90335cab62"
@@ -2636,10 +2645,13 @@
 			"md5": "e397108334c90021ef9b65f8b4eec52c"
 		},
 		"res/UI/Home.json": {
-			"md5": "ade2eaf3ac434dded7692bf53490e44a"
+			"md5": "7bfc4e2b0caeaccfec32c5696e778ea0"
 		},
 		"res/UI/HomeP.json": {
 			"md5": "f8fdbd7cd739c90d6d01c6c45e001ffd"
+		},
+		"res/UI/image/.DS_Store": {
+			"md5": "7f59e44e2e537c3759420131442c4d36"
 		},
 		"res/UI/image/getit.png": {
 			"md5": "7dd0c47b3d12a60faeaeb4bf5f687f36"
@@ -2651,10 +2663,13 @@
 			"md5": "3572c5606eb6bbd0422ca658ce0b47d0"
 		},
 		"res/UI/MenuLayer.json": {
-			"md5": "89b6b5fa05481eacae8f79614791b697"
+			"md5": "9b4a4120cf5e0229326b724466364b3d"
 		},
 		"res/UI/Options.json": {
 			"md5": "ee0c9cc248663888ca6d36478f54eb4a"
+		},
+		"res/UI/RemoveADSLayer.json": {
+			"md5": "6fc195867e7199a30712e55d2cdb2852"
 		},
 		"res/UI/RomCell.json": {
 			"md5": "50cc86bc9a675484ff4c09a3e28a527b"
@@ -2665,11 +2680,20 @@
 		"res/UI/RomInfoP.json": {
 			"md5": "7b111b6f18c782088ed3f65dd1a5c272"
 		},
+		"res/UI/roms/.DS_Store": {
+			"md5": "08dfd2154915d86e1cb227ec205fd7b0"
+		},
 		"res/UI/roms/10007.png": {
 			"md5": "0692fda3d96ce03482d3670c3313894e"
 		},
 		"res/UI/roms/aladdin_usa.jpg": {
 			"md5": "6a4debf3037b85eeabda4b1910140dc8"
+		},
+		"res/UI/store/.DS_Store": {
+			"md5": "64f9f3e2d7f7e22000a2a2b3ebdd36c3"
+		},
+		"res/UI/store/6385995.png": {
+			"md5": "929e9fd8ab316193e5ca33faac51ca53"
 		},
 		"res/UI/store/about_noselect.png": {
 			"md5": "ed676f843adadef9d204257f99cf7c18"
@@ -2736,6 +2760,12 @@
 		},
 		"res/UI/store/Unknown copy.png": {
 			"md5": "bae0bb02b212810498ab6e08da1557ca"
+		},
+		"res/UI/store/video-icon-crop.png": {
+			"md5": "db876b09e097c8051e05008d0abd23c6"
+		},
+		"res/UI/store/watch_now.png": {
+			"md5": "279e8b0d88c731bc8648b1c1dd0adedb"
 		},
 		"res/UI/store/yes.png": {
 			"md5": "6f1d30959e28990e1e9c1da1256c7686"
@@ -3050,7 +3080,7 @@
 			"md5": "00f6787ad6d530c52f4c53f21afa36f2"
 		},
 		"src/framework/plugins/Admob.js": {
-			"md5": "517f54be32b6e7414614c14509838c37"
+			"md5": "984147ce8c89a413cfefab8367db9213"
 		},
 		"src/framework/plugins/Appflyer.js": {
 			"md5": "1d456377bca2ee90fae8649e8a539092"
@@ -3260,7 +3290,7 @@
 			"md5": "ebabe03342dd42c8f3a768c1e2005e3a"
 		},
 		"src/NES/adsMgr.js": {
-			"md5": "d9a779c9c70c74d0017664e0aa0b2591"
+			"md5": "b69502e782e0c0d5b8a56cd941afea92"
 		},
 		"src/NES/Constant.js": {
 			"md5": "39e7e0085ace912fae5f8335c25f73a7"
@@ -3305,7 +3335,7 @@
 			"md5": "97464705c9adf2cb2eaa53b8f5d7f4b3"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "1e436b0fa497b80b7ebd353a63c24b04"
+			"md5": "6d509e08498d35d7382ba72bb86c7870"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "4d056dbc8331932f7c7f3f9b591fff77"
@@ -3317,7 +3347,10 @@
 			"md5": "240658b902c2f4d2683faafc0a2677c5"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "56fc1e4dd8ba79a9f5b7ae8849adeda1"
+			"md5": "ca62dd80f1eecaf504953be6ae9d72e2"
+		},
+		"src/NES/Home/RemoveADSLayer.js": {
+			"md5": "44f7b8888236dbe6e2b513af38a58197"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "c74a43dd932c868130668a658bceabcd"
@@ -3338,7 +3371,7 @@
 			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
 		},
 		"src/NES/tracking.js": {
-			"md5": "3aba5e446d0df1817fd545374beb0e3f"
+			"md5": "a0d08e79df8c4f2c82c7f24468ca782e"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "7f25d89858e8cb310d566f1c7fcbc518"
@@ -3347,7 +3380,7 @@
 			"md5": "9cbc313dbda35399689b7c3fb8594872"
 		},
 		"src/NES/UI/GameLayer.js": {
-			"md5": "c3765da66527dfa65a07da0d9f9f21b2"
+			"md5": "bc0bde2f898ca585c111941a6f7ce1ee"
 		},
 		"src/NES/UI/OptionLayer.js": {
 			"md5": "aa5e713deb9cb062278d15367894cb9c"
@@ -3362,7 +3395,7 @@
 			"md5": "d98c2bfcde1175f8d284855f9eb3dbdf"
 		},
 		"src/resource.js": {
-			"md5": "d635997af9508e1f93284ca651235dc5"
+			"md5": "85ab2c7b111fe71c63425c639969107a"
 		}},
 	"group" : {},
     "searchPaths" : []
