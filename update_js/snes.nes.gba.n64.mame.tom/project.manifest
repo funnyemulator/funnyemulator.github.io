@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/snes.nes.gba.n64.mame.tom/",
-	"version" : "5",
+	"version" : "6",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -3035,7 +3035,7 @@
 			"md5": "a8cdb0eefca497a5ed04c2f859e0796f"
 		},
 		"src/framework/Framework.js": {
-			"md5": "01f7c54dacba4305138e7097e5f146c2"
+			"md5": "b419102705d2c6a005ebca644e864ee6"
 		},
 		"src/framework/gui/Avatar.js": {
 			"md5": "edfc51db66d2fb8e788419542cad6db3"
@@ -3080,7 +3080,7 @@
 			"md5": "00f6787ad6d530c52f4c53f21afa36f2"
 		},
 		"src/framework/plugins/Admob.js": {
-			"md5": "984147ce8c89a413cfefab8367db9213"
+			"md5": "16b3d2d7cb88ed5459879347cb669e16"
 		},
 		"src/framework/plugins/Appflyer.js": {
 			"md5": "1d456377bca2ee90fae8649e8a539092"
@@ -3347,7 +3347,7 @@
 			"md5": "240658b902c2f4d2683faafc0a2677c5"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "ac0990ad7915208a063c1e5b15de5ea3"
+			"md5": "07c7e618e86486c5e40f537ed1a01b81"
 		},
 		"src/NES/Home/RemoveADSLayer.js": {
 			"md5": "44f7b8888236dbe6e2b513af38a58197"
