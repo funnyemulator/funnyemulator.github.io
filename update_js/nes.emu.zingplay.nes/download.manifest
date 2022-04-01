@@ -1,0 +1,12 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/",
+	"version" : "1",
+	"engineVersion" : "1.0.0",
+	"assets" : {},
+	"group" : {},
+    "searchPaths" : []
+}
