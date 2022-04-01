@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/",
-	"version" : "1",
+	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -3419,7 +3419,7 @@
 			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
 		},
 		"src/NES/tracking.js": {
-			"md5": "88f1df615641d51655b46e218431f89a"
+			"md5": "427a5d8f4fb7f4433ac7089f5d666dea"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "7f25d89858e8cb310d566f1c7fcbc518"
