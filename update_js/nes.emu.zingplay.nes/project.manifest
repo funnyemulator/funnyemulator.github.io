@@ -4,20 +4,20 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.emu.zingplay.nes/",
-	"version" : "3",
+	"version" : "5",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
 			"md5": "6c5ed2313656a33c3d0c5efa326ce4ae"
 		},
 		"main.js": {
-			"md5": "660b85d4d5bd606c0eece871fa1beb5f"
+			"md5": "9a6aa75d4eb1c68c49c42df28bce7105"
 		},
 		"project.json": {
 			"md5": "76e2c3bbfe291e65d271c0f4eeadd945"
 		},
 		"res/cacert.pem": {
-			"md5": "30b3a35c62261542e0094ee94e3c7265"
+			"md5": "a63b27d9797d33fa5cf210c7bd8210a5"
 		},
 		"res/CoreData/Materials/DefaultNoTex.mat": {
 			"md5": "4b69fcf72a0a372923989e84ff94bb2e"
@@ -2033,7 +2033,7 @@
 			"md5": "886b616a1edb4da308d93aff082738af"
 		},
 		"res/db_snes": {
-			"md5": "d9ac21f15b358e262d213024b3bac015"
+			"md5": "2fcbf04e94653af107e842c64a699341"
 		},
 		"res/editor/defaults/editor-fonts/fa-regular-400.ttf": {
 			"md5": "2bca5ec802e40d3f4b60343e346cedde"
@@ -2984,7 +2984,7 @@
 			"md5": "695df19767b8606d7633368cded7dcd3"
 		},
 		"src/core/CCFileUtils.js": {
-			"md5": "ab4019e812a4f8b9eaa7e14a788d6e86"
+			"md5": "e76179c7013e1058584404c9c779653e"
 		},
 		"src/Engine/colyseus/colyseus.d.ts": {
 			"md5": "99ec4a5e20d1ce634c929d912289bbcf"
@@ -3029,16 +3029,16 @@
 			"md5": "c7db4a484b6bb343cef8c2007dd8b6ad"
 		},
 		"src/Engine/firebase/firebase-analytics.js": {
-			"md5": "3447e7d21dab309f6d61c90553602f6c"
+			"md5": "cfc2c004ea10d05d7bb0c09b47e411f0"
 		},
 		"src/Engine/firebase/firebase-app-check.js": {
-			"md5": "cea5a4b5e57bbacb9c3d481474fd649a"
+			"md5": "db207945cbe54c3f45a1b1a632fb55cd"
 		},
 		"src/Engine/firebase/firebase-app.js": {
 			"md5": "4ef4e213d427c6f27473833a27c677da"
 		},
 		"src/Engine/firebase/firebase-auth.js": {
-			"md5": "3a6dae74e731d4a4f180c20af584e21c"
+			"md5": "faebb3bd759ff1fe9798e97fc6975762"
 		},
 		"src/Engine/firebase/firebase-database.js": {
 			"md5": "235f7f6ba6199946166f2c2d285b1e16"
@@ -3338,40 +3338,40 @@
 			"md5": "39e7e0085ace912fae5f8335c25f73a7"
 		},
 		"src/NES/fceux/base64.js": {
-			"md5": "5aee1c8fa38d35ce96c06b5cd7a29707"
+			"md5": "c975c109e3970e1fbd598ae092cf0c82"
 		},
 		"src/NES/fceux/cpu.js": {
-			"md5": "0745e0abedbea7a39748e2bb70326d2d"
+			"md5": "cdb848f5b0f0ec4f5ab0775590c43fa2"
 		},
 		"src/NES/fceux/header.js": {
-			"md5": "6cdfa2edb5c8c02137ce5928e941a611"
+			"md5": "36c2b4387e42ce574c592d3a73120451"
 		},
 		"src/NES/fceux/keyboard.js": {
-			"md5": "141c59f7e671150de5c02ae6ae832d9a"
+			"md5": "41c0a1462db219ee7f713bc9ff82cae6"
 		},
 		"src/NES/fceux/mappers.js": {
-			"md5": "eb479ee0d015fca6cf7edc153aafff68"
+			"md5": "063be4139cf5b8d4003b115d1891087c"
 		},
 		"src/NES/fceux/nes.js": {
-			"md5": "94c4d12a6f6791af2cd2fadc287be0c2"
+			"md5": "02d9d304ec4757f745a2ac1bbf48be10"
 		},
 		"src/NES/fceux/papu.js": {
-			"md5": "20e4ba7eae3b4ae2be06b50fdc4bbccc"
+			"md5": "5a03db5c815feef5cc50a24f9f85dd0d"
 		},
 		"src/NES/fceux/ppu.js": {
-			"md5": "71eb292f8975968f53234080617ddc5c"
+			"md5": "beeb5dcee96860ca55ce87f7a9ab7fa5"
 		},
 		"src/NES/fceux/rom.js": {
-			"md5": "832665c5d15151baca09f869610562bd"
+			"md5": "945d2a4a5a0cf51b90a4e87eb34e5215"
 		},
 		"src/NES/fceux/ui.js": {
-			"md5": "728a3a34cdbfbe6537b7926f89030699"
+			"md5": "b6fa56ee4d2d0b94719ffd875ee58d67"
 		},
 		"src/NES/fceux/utils.js": {
-			"md5": "b5e54ca678dc4b43dafc0d95057029ac"
+			"md5": "cb2f13102df865ce555aa5caf82d0ae4"
 		},
 		"src/NES/Game/GameLayer.js": {
-			"md5": "f99dc9e00bcd81a0260957b87b0643a4"
+			"md5": "9f8a42b76fee560cb64a9c8e26e78537"
 		},
 		"src/NES/Game/Joystick.js": {
 			"md5": "655e90e1fb4ea2807289c80184cc72e5"
@@ -3392,25 +3392,25 @@
 			"md5": "159dd4363a2ea8dc76ffdaf03597c864"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "0059f25ae64c4902ffa19851f9587cb1"
+			"md5": "f857c98849d542af7418da40cead74c4"
 		},
 		"src/NES/Home/RemoveADSLayer.js": {
 			"md5": "44f7b8888236dbe6e2b513af38a58197"
 		},
 		"src/NES/Home/Shop.js": {
-			"md5": "829349736749d7776703b3db3b685aba"
+			"md5": "a0a9a7b4c095e67c4d6553768d6fa748"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "c74a43dd932c868130668a658bceabcd"
 		},
 		"src/NES/logic/config.js": {
-			"md5": "418cbb5f495ea313478eced0bfd26405"
+			"md5": "d38f6f1210934e9a46f758864bba034f"
 		},
 		"src/NES/logic/datamanager.js": {
 			"md5": "a8ca12eb9c53658289cc97cfd5b86376"
 		},
 		"src/NES/logic/downloadMgr.js": {
-			"md5": "a0b5f4190fc5a7c4cbbef48a90e94b54"
+			"md5": "aef6e3bc8da9f98627951118411717af"
 		},
 		"src/NES/NESViewer.js": {
 			"md5": "7869f84b64f35c40d87be5b3da3613cf"
