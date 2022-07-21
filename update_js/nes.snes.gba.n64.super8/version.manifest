@@ -1,0 +1,12 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.snes.gba.n64.super8",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.snes.gba.n64.super8/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.snes.gba.n64.super8/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.snes.gba.n64.super8/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/funnyemulator.github.io/main/update_js/nes.snes.gba.n64.super8/",
+	"version" : "1",
+	"engineVersion" : "1.0.0",
+	"assets" : {},
+	"group" : {},
+    "searchPaths" : []
+}
