@@ -18,7 +18,7 @@
 			<key>store/about_noselect.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{515,1},{261,264}}</string>
+				<string>{{753,695},{261,264}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -29,18 +29,18 @@
 			<key>store/about_select.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{778,1},{261,264}}</string>
+				<string>{{855,1007},{261,264}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{261,264}</string>
 			</dict>
 			<key>store/addCoin.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,515},{490,514}}</string>
+				<string>{{1,1029},{490,514}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -51,7 +51,7 @@
 			<key>store/back2.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1539,267},{75,72}}</string>
+				<string>{{1457,1904},{75,72}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -62,7 +62,7 @@
 			<key>store/btn.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{493,981},{188,44}}</string>
+				<string>{{696,1963},{188,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -73,7 +73,7 @@
 			<key>store/btn_list_noselect.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{778,264},{240,240}}</string>
+				<string>{{1157,1},{240,240}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -84,7 +84,7 @@
 			<key>store/btn_list_select.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{515,267},{240,240}}</string>
+				<string>{{693,1},{240,240}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -95,7 +95,7 @@
 			<key>store/btnBuy.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{784,916},{200,56}}</string>
+				<string>{{292,1963},{200,56}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -106,7 +106,7 @@
 			<key>store/coin.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{419,1031},{480,360}}</string>
+				<string>{{493,1029},{480,360}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -117,7 +117,7 @@
 			<key>store/dau__.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{493,693},{640,122}}</string>
+				<string>{{515,571},{640,122}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -128,18 +128,18 @@
 			<key>store/download.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,1031},{1000,207}}</string>
+				<string>{{1,1545},{1000,207}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{1000,207}</string>
 			</dict>
 			<key>store/duoi__.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{493,817},{640,97}}</string>
+				<string>{{1003,1805},{640,97}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -150,7 +150,7 @@
 			<key>store/ic_ads.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1827,1},{64,64}}</string>
+				<string>{{1380,1981},{64,64}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -161,18 +161,18 @@
 			<key>store/insertCoin.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{493,515},{568,176}}</string>
+				<string>{{515,1},{568,176}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
 				<string>{568,176}</string>
 			</dict>
 			<key>store/menu.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1462,267},{75,75}}</string>
+				<string>{{1380,1904},{75,75}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -183,7 +183,7 @@
 			<key>store/movie_play_gray.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1223,478},{180,126}}</string>
+				<string>{{1076,1904},{180,126}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -194,7 +194,7 @@
 			<key>store/mygame_noselect.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1301,1},{261,264}}</string>
+				<string>{{1016,695},{261,264}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -205,7 +205,7 @@
 			<key>store/mygame_select.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1564,1},{261,264}}</string>
+				<string>{{855,1273},{261,264}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -216,7 +216,7 @@
 			<key>store/no.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1063,638},{187,44}}</string>
+				<string>{{753,961},{187,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -227,29 +227,29 @@
 			<key>store/play.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{210,1031},{1000,207}}</string>
+				<string>{{1,1754},{1000,207}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{1000,207}</string>
 			</dict>
 			<key>store/recent_noselect.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1613,267},{261,264}}</string>
+				<string>{{1003,1539},{261,264}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{261,264}</string>
 			</dict>
 			<key>store/recent_select.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{419,1513},{261,264}}</string>
+				<string>{{1118,961},{261,264}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -260,7 +260,7 @@
 			<key>store/star_empty.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1020,318},{158,158}}</string>
+				<string>{{935,1},{158,158}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -271,7 +271,7 @@
 			<key>store/star_full.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1063,478},{158,158}}</string>
+				<string>{{935,161},{158,158}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -282,7 +282,7 @@
 			<key>store/star_half.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1180,318},{158,158}}</string>
+				<string>{{693,243},{158,158}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -293,7 +293,7 @@
 			<key>store/tem.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1340,267},{120,120}}</string>
+				<string>{{1258,1904},{120,120}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -304,7 +304,7 @@
 			<key>store/Unknown copy.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1340,389},{200,56}}</string>
+				<string>{{494,1963},{200,56}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -315,7 +315,7 @@
 			<key>store/video-icon-crop.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1063,1},{315,236}}</string>
+				<string>{{515,695},{315,236}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -326,7 +326,7 @@
 			<key>store/watch_now.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{493,916},{289,63}}</string>
+				<string>{{1,1963},{289,63}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -337,7 +337,7 @@
 			<key>store/yes.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{683,981},{188,44}}</string>
+				<string>{{886,1963},{188,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -348,7 +348,7 @@
 			<key>store/yeuthich_no_select.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{419,1779},{261,264}}</string>
+				<string>{{1118,1227},{261,264}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -359,13 +359,24 @@
 			<key>store/yeuthich_select.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{682,1513},{261,264}}</string>
+				<string>{{1266,1493},{261,264}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
 				<string>{261,264}</string>
+			</dict>
+			<key>store/reload.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,515},{512,512}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{512,512}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>
