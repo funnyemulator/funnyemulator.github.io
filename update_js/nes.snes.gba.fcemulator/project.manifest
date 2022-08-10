@@ -11,7 +11,7 @@
 			"md5": "6c5ed2313656a33c3d0c5efa326ce4ae"
 		},
 		"main.js": {
-			"md5": "2f325203211aecceb8148f931006edc9"
+			"md5": "da7f9a7a8dcb1e98c54795528460f454"
 		},
 		"project.json": {
 			"md5": "81e615778e6318efd5c2defee8fbcea0"
@@ -3677,7 +3677,7 @@
 			"md5": "9ae9142864c144f2b3cef78a2af1ba6b"
 		},
 		"src/framework/plugins/PlatformWrapper.js": {
-			"md5": "6dac5f7d8c01b7f19a5dce708d2297bf"
+			"md5": "cfd82dda8f5683185ab3d4f470179db0"
 		},
 		"src/framework/plugins/Portal.js": {
 			"md5": "e943e77a0f1944259e0dc8f1b1a766bd"
@@ -3797,7 +3797,7 @@
 			"md5": "7aeac1ce5fb9a989a322d53333078a2d"
 		},
 		"src/NES/Home/ListRomLayer.js": {
-			"md5": "cea9be5e56dc9e31d1a1a9c649709598"
+			"md5": "383ffbcba800045c52b79844320c309a"
 		},
 		"src/NES/Home/ListRomSNESLayer.js": {
 			"md5": "882bc42551aadd2855fab889540b03f8"
@@ -3812,7 +3812,7 @@
 			"md5": "a0a9a7b4c095e67c4d6553768d6fa748"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "2a48a97bf9af60de48cc9b9284cf4a7a"
+			"md5": "b9f64cf590a36c8f8d68c18b1dbf0273"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "c74a43dd932c868130668a658bceabcd"
@@ -3833,13 +3833,13 @@
 			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
 		},
 		"src/NES/tracking.js": {
-			"md5": "207d1f03b0ce0cdfd795a41b915c64a0"
+			"md5": "5fdabcb1cbc0c29b1085f23fe12d5071"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "7f25d89858e8cb310d566f1c7fcbc518"
 		},
 		"src/NES/UI/Dialog.js": {
-			"md5": "dd3a0620566c9c56a3a61bf72f5aae3e"
+			"md5": "e26b43aad3408bdf762385f1271e6d56"
 		},
 		"src/NES/UI/OptionLayer.js": {
 			"md5": "030f220e24b6f8950025b0992967ca30"
