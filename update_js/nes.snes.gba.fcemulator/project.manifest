@@ -11,7 +11,7 @@
 			"md5": "6c5ed2313656a33c3d0c5efa326ce4ae"
 		},
 		"main.js": {
-			"md5": "da7f9a7a8dcb1e98c54795528460f454"
+			"md5": "b9d17ca7305110f5ad5c17a8d563b274"
 		},
 		"project.json": {
 			"md5": "81e615778e6318efd5c2defee8fbcea0"
@@ -796,9 +796,6 @@
 		"res/data/10001/10001-3.png": {
 			"md5": "c382f0101e22c28eca0e69da4b588462"
 		},
-		"res/data/10001/10001.bin": {
-			"md5": "ff4a16a0a6b1e51962e452ade0e5d1e7"
-		},
 		"res/data/10002/10002-0.png": {
 			"md5": "0692fda3d96ce03482d3670c3313894e"
 		},
@@ -814,9 +811,6 @@
 		"res/data/10002/10002-4.png": {
 			"md5": "a82aa662e194742d5be7b53a530397c8"
 		},
-		"res/data/10002/10002.bin": {
-			"md5": "20f8179c2a397674ad788af537b1a867"
-		},
 		"res/data/10003/10003-0.png": {
 			"md5": "92a4f3bf19e7e229d6d5113477b20100"
 		},
@@ -828,9 +822,6 @@
 		},
 		"res/data/10003/10003-3.png": {
 			"md5": "b4336e76b1fc2a77cc7335742f2e79ed"
-		},
-		"res/data/10003/10003.bin": {
-			"md5": "e5c3c90deb3d184a578c91a5050cdbcf"
 		},
 		"res/data/10004/10004-0.png": {
 			"md5": "43afc788a0ca74d27b277a3831993a81"
@@ -847,9 +838,6 @@
 		"res/data/10004/10004-4.png": {
 			"md5": "e0ecc934eed1f011222bb989d4269b40"
 		},
-		"res/data/10004/10004.bin": {
-			"md5": "4892ddac533bc273f08899fced4c158b"
-		},
 		"res/data/10005/10005-0.png": {
 			"md5": "5878b656107d829b851f0c382bd31cfd"
 		},
@@ -865,9 +853,6 @@
 		"res/data/10005/10005-4.png": {
 			"md5": "7e825ccdde200efba4f772add8ec45e7"
 		},
-		"res/data/10005/10005.bin": {
-			"md5": "011ac3f0e837952bc1e191a15b80b02e"
-		},
 		"res/data/10006/10006-0.png": {
 			"md5": "45e10f1f75c297361af0e73f648b9a30"
 		},
@@ -876,9 +861,6 @@
 		},
 		"res/data/10006/10006-2.png": {
 			"md5": "5324c3901c6ba24d525697cb575337ab"
-		},
-		"res/data/10006/10006.bin": {
-			"md5": "a9cfc14b000b1cfc285995e535573b43"
 		},
 		"res/data/10007/10007-0.png": {
 			"md5": "ba2d522006d51c7ad6621ed9cb96823a"
@@ -892,9 +874,6 @@
 		"res/data/10007/10007-3.png": {
 			"md5": "7dd7bd269b22fff5052c3c8c0d6c36cb"
 		},
-		"res/data/10007/10007.bin": {
-			"md5": "85f2c15508f36f9e331dd0a9d4765059"
-		},
 		"res/data/10008/10008-0.png": {
 			"md5": "63634dd2490173d7d163e2ee542aef5d"
 		},
@@ -906,9 +885,6 @@
 		},
 		"res/data/10008/10008-3.png": {
 			"md5": "ec6bd61ac71a80db12b77ace984ae8d5"
-		},
-		"res/data/10008/10008.bin": {
-			"md5": "c9bb452a29c21596611268793144477b"
 		},
 		"res/data/10009/10009-0.png": {
 			"md5": "9ff100f6b70e5abe0e6cd73febbc11a5"
@@ -922,9 +898,6 @@
 		"res/data/10009/10009-4.png": {
 			"md5": "9be0f1a8123886549527361d7dd90f25"
 		},
-		"res/data/10009/10009.bin": {
-			"md5": "dd8c67ff71718597ed50988d48002b2c"
-		},
 		"res/data/10010/10010-0.png": {
 			"md5": "55eaaaac49db52c6d251701141a41c87"
 		},
@@ -936,9 +909,6 @@
 		},
 		"res/data/10010/10010-3.png": {
 			"md5": "083f1a4a02ef6cbf1b9f075cce258ba4"
-		},
-		"res/data/10010/10010.bin": {
-			"md5": "741176c7a271bc35ccfebbc767467a12"
 		},
 		"res/data/10012/10012-0.png": {
 			"md5": "eab3044973ba3dbc58744122631d3dca"
@@ -955,9 +925,6 @@
 		"res/data/10012/10012-4.png": {
 			"md5": "280b830e17833e78ffea6e16f560de92"
 		},
-		"res/data/10012/10012.bin": {
-			"md5": "53f11f63042a42eebe7f826b08a2a3cb"
-		},
 		"res/data/10013/10013-0.png": {
 			"md5": "a7545f2f1d2cb259ed79004ac086468b"
 		},
@@ -969,9 +936,6 @@
 		},
 		"res/data/10013/10013-3.png": {
 			"md5": "a4e770d0750553bd662e708837b248f1"
-		},
-		"res/data/10013/10013.bin": {
-			"md5": "990aa39f9ea745ce9a58623fe29bc035"
 		},
 		"res/data/10014/10014-0.png": {
 			"md5": "d822631e1fbe06410ecf2b482c8bee42"
@@ -985,9 +949,6 @@
 		"res/data/10014/10014-3.png": {
 			"md5": "47bbea72a336bf69b3c4b99572e47f6d"
 		},
-		"res/data/10014/10014.bin": {
-			"md5": "0806245bb63ce4f2770b680ba20136c3"
-		},
 		"res/data/10015/10015-0.png": {
 			"md5": "accf558b9540a7e50966a8b54f33129c"
 		},
@@ -999,9 +960,6 @@
 		},
 		"res/data/10015/10015-3.png": {
 			"md5": "f6a8621b1908d1d07349ab13f1c1ed46"
-		},
-		"res/data/10015/10015.bin": {
-			"md5": "98238e6398975be8317ff19434104786"
 		},
 		"res/data/10016/10016-0.png": {
 			"md5": "77ffb39b0127933163b57ab8b1271d9e"
@@ -1015,9 +973,6 @@
 		"res/data/10016/10016-3.png": {
 			"md5": "8a1ba8fccd0a8235e86dbabd0b0c476a"
 		},
-		"res/data/10016/10016.bin": {
-			"md5": "75b310698c8fc724857f0002b929aae5"
-		},
 		"res/data/10017/10017-0.png": {
 			"md5": "9f12a0c65786e6f5c5d0a14d3226e5fe"
 		},
@@ -1029,9 +984,6 @@
 		},
 		"res/data/10017/10017-3.png": {
 			"md5": "4f6bff9bbb48ea0df2280b97b8cc200b"
-		},
-		"res/data/10017/10017.bin": {
-			"md5": "a2f17b75dcdcd5727a370cb9b6e0aed2"
 		},
 		"res/data/10018/10018-0.png": {
 			"md5": "9b6545b269c839cf62c91ebb938d799b"
@@ -1045,17 +997,11 @@
 		"res/data/10018/10018-3.png": {
 			"md5": "bd79d79c2bb4147a0351148a94097ce1"
 		},
-		"res/data/10018/10018.bin": {
-			"md5": "5a23a87f361e0a15a5f2e51ebd38a9cd"
-		},
 		"res/data/10019/10019-0.png": {
 			"md5": "e62e191434f6a8613bb7d333d12fbb2f"
 		},
 		"res/data/10019/10019-1.png": {
 			"md5": "7f8783349e111e8927267dd3575160c9"
-		},
-		"res/data/10019/10019.bin": {
-			"md5": "bfb60c301e75c5558fe8562a7e571195"
 		},
 		"res/data/10020/10020-0.png": {
 			"md5": "48aa9ed6a00b329295d69b59c8b27478"
@@ -1066,9 +1012,6 @@
 		"res/data/10020/10020-2.png": {
 			"md5": "ce7bc90cb5e07683e7f623c43356acb5"
 		},
-		"res/data/10020/10020.bin": {
-			"md5": "25b092cb2560869e405fe93a1a3b2a9f"
-		},
 		"res/data/10021/10021-0.png": {
 			"md5": "e1637e0bfc739f18442cb4894bcb8245"
 		},
@@ -1077,9 +1020,6 @@
 		},
 		"res/data/10021/10021-2.png": {
 			"md5": "809f94911d1bb5da37242700eb2a5396"
-		},
-		"res/data/10021/10021.bin": {
-			"md5": "e1de2310903dfc4d5e260be03b4fff13"
 		},
 		"res/data/10022/10022-0.png": {
 			"md5": "d486a74e7e037afeffe4b4995f16332d"
@@ -1090,9 +1030,6 @@
 		"res/data/10022/10022-2.png": {
 			"md5": "ca7944fe9dc2f12037c8b592bfc5cdca"
 		},
-		"res/data/10022/10022.bin": {
-			"md5": "41d861d62e1125d781081775bad8f858"
-		},
 		"res/data/10023/10023-0.png": {
 			"md5": "e64b6b48a3201f94e1c503411a77e861"
 		},
@@ -1101,9 +1038,6 @@
 		},
 		"res/data/10023/10023-2.png": {
 			"md5": "b0e92e0531b958f0faad043fabea1f9d"
-		},
-		"res/data/10023/10023.bin": {
-			"md5": "7a63dd7124641c9e8bdf9968d530bd6f"
 		},
 		"res/data/10024/10024-0.png": {
 			"md5": "48e28c64c4ef2c009b7f253d5e6dc914"
@@ -1117,9 +1051,6 @@
 		"res/data/10024/10024-3.png": {
 			"md5": "c84dfe0ba8f201d01d3074e4c84155e1"
 		},
-		"res/data/10024/10024.bin": {
-			"md5": "7a02719ff1ad7ece69ca3270a2795eec"
-		},
 		"res/data/10025/10025-0.png": {
 			"md5": "176a9c6a303a793708ef4fae7615d2cc"
 		},
@@ -1132,9 +1063,6 @@
 		"res/data/10025/10025-3.png": {
 			"md5": "fe07fb6f34684b7403a9edc2233262b6"
 		},
-		"res/data/10025/10025.bin": {
-			"md5": "7682e536c82c0890ba6bfee1487bca95"
-		},
 		"res/data/10026/10026-0.png": {
 			"md5": "64f9361281d9dd5e328f81f98441830c"
 		},
@@ -1144,9 +1072,6 @@
 		"res/data/10026/10026-2.png": {
 			"md5": "67a6c167136402884014fb90881c2fbd"
 		},
-		"res/data/10026/10026.bin": {
-			"md5": "3190df40a78e3c82424ce0802028ae0c"
-		},
 		"res/data/10027/10027-0.png": {
 			"md5": "fac249bb8f5d759a54d19036fe0e495e"
 		},
@@ -1155,9 +1080,6 @@
 		},
 		"res/data/10027/10027-2.png": {
 			"md5": "4f47f44f711f43c7f55543df51407519"
-		},
-		"res/data/10027/10027.bin": {
-			"md5": "02b7e6c86102075cf9b0e56561b60157"
 		},
 		"res/data/10028/10028-0.png": {
 			"md5": "b4d8e47df89cb8bd7b36e33980f1933e"
@@ -1171,9 +1093,6 @@
 		"res/data/10028/10028-3.png": {
 			"md5": "0f11487f595144ceaeb4b03e7203e176"
 		},
-		"res/data/10028/10028.bin": {
-			"md5": "34b7310ac5359e4d66274253c9c8fc6a"
-		},
 		"res/data/10029/10029-0.png": {
 			"md5": "2b8f529f7b4c06d8e783035451e27c30"
 		},
@@ -1186,9 +1105,6 @@
 		"res/data/10029/10029-3.png": {
 			"md5": "ec53273415388b3574805aced05e5125"
 		},
-		"res/data/10029/10029.bin": {
-			"md5": "07ad1aa2690d42852934826e845ed4c6"
-		},
 		"res/data/10030/10030-0.png": {
 			"md5": "87b93c12ed4674fb852c72c7d071c39c"
 		},
@@ -1198,9 +1114,6 @@
 		"res/data/10030/10030-2.png": {
 			"md5": "60fcd6e5c1f0f06915fa49472c54cbba"
 		},
-		"res/data/10030/10030.bin": {
-			"md5": "5359005b9bdea9902b1e44db1fd5a299"
-		},
 		"res/data/10031/10031-0.png": {
 			"md5": "b8bc6361ccd8a9aa203bafdb3a8e23e9"
 		},
@@ -1209,9 +1122,6 @@
 		},
 		"res/data/10031/10031-2.png": {
 			"md5": "417a5c70ff997c8368b035dde18c4083"
-		},
-		"res/data/10031/10031.bin": {
-			"md5": "83565f545bbd401e7c227aa7e988da87"
 		},
 		"res/data/10032/10032-0.png": {
 			"md5": "d59f63cf223ecf266e138b58b8111eda"
@@ -1225,9 +1135,6 @@
 		"res/data/10032/10032-3.png": {
 			"md5": "0d5e7bda88778a2ee472692e35a77f35"
 		},
-		"res/data/10032/10032.bin": {
-			"md5": "4e2017c5aff6ab11b099e8b0b3484977"
-		},
 		"res/data/10033/10033-0.png": {
 			"md5": "8e509954ce6a2d4d955ba3c67777c04d"
 		},
@@ -1240,9 +1147,6 @@
 		"res/data/10033/10033-3.png": {
 			"md5": "56e581a1d9b39ba42c2cd5eaf9a801f9"
 		},
-		"res/data/10033/10033.bin": {
-			"md5": "16b04b7b2ffbf0a0d336760d309d2075"
-		},
 		"res/data/10034/10034-0.png": {
 			"md5": "52e53075e26abccdbc62f7e8f6d25691"
 		},
@@ -1252,9 +1156,6 @@
 		"res/data/10034/10034-2.png": {
 			"md5": "b42d56c45af58840ff711c5c04a0af80"
 		},
-		"res/data/10034/10034.bin": {
-			"md5": "71d6c62614fe1e3ac65bca2d6de5aa9a"
-		},
 		"res/data/10035/10035-0.png": {
 			"md5": "08a8a0dcb20149575b8819cb77591f78"
 		},
@@ -1263,9 +1164,6 @@
 		},
 		"res/data/10035/10035-2.png": {
 			"md5": "36eb02690888609f35291846a1ba3b0d"
-		},
-		"res/data/10035/10035.bin": {
-			"md5": "33be59c5faca2fdc3940c12c0ed12d50"
 		},
 		"res/data/10036/10036-0.png": {
 			"md5": "9118b147c0183883ac851352450024f7"
@@ -1279,9 +1177,6 @@
 		"res/data/10036/10036-3.png": {
 			"md5": "2c1d8b0915e5da2e5e4d04e13480f791"
 		},
-		"res/data/10036/10036.bin": {
-			"md5": "35ec893716451587b05c68381057f92e"
-		},
 		"res/data/10037/10037-0.png": {
 			"md5": "0c6c200a1437f8c14052d179d39d57fd"
 		},
@@ -1293,9 +1188,6 @@
 		},
 		"res/data/10037/10037-3.png": {
 			"md5": "b602d4019681d2f9bdf147563f28a3c4"
-		},
-		"res/data/10037/10037.bin": {
-			"md5": "d1537a1c5e65392b69d1db5461f8def2"
 		},
 		"res/data/10038/10038-0.png": {
 			"md5": "7dd47e9b121b1431dca316a1ec89220a"
@@ -1312,9 +1204,6 @@
 		"res/data/10038/10038-4.png": {
 			"md5": "304c2db088a0fee307d2d4b57a765508"
 		},
-		"res/data/10038/10038.bin": {
-			"md5": "0f1e66f20496ab0d15885773ae35553a"
-		},
 		"res/data/10041/10041-0.png": {
 			"md5": "8fa559bcdad61320208d8d19326507be"
 		},
@@ -1326,9 +1215,6 @@
 		},
 		"res/data/10041/10041-3.png": {
 			"md5": "b8e4f75d4670676c894fe6c51d255e93"
-		},
-		"res/data/10041/10041.bin": {
-			"md5": "481f435e346e79c15be5d50bd53135b7"
 		},
 		"res/data/10043/10043-0.png": {
 			"md5": "9d41e2869d076873544633bad563de64"
@@ -1342,9 +1228,6 @@
 		"res/data/10043/10043-4.png": {
 			"md5": "59e7dfb5315099c762245b692c983010"
 		},
-		"res/data/10043/10043.bin": {
-			"md5": "c875a9cee9e897bdd10fca7fdeb704dd"
-		},
 		"res/data/10044/10044-0.png": {
 			"md5": "3692b27d3670322304c677bc36352aa2"
 		},
@@ -1357,9 +1240,6 @@
 		"res/data/10044/10044-3.png": {
 			"md5": "60a9eca42735cf6ca5038126431c485b"
 		},
-		"res/data/10044/10044.bin": {
-			"md5": "8203007ca555dc3c91c8dd321a17ce02"
-		},
 		"res/data/10046/10046-0.png": {
 			"md5": "064d2a6b2b930265fc8a5121c7c071ef"
 		},
@@ -1368,9 +1248,6 @@
 		},
 		"res/data/10046/10046-2.png": {
 			"md5": "f611b15b2d5d525a74b30cbdcba04a48"
-		},
-		"res/data/10046/10046.bin": {
-			"md5": "3c9c0a26008523d0aaed3831d8389469"
 		},
 		"res/data/10047/10047-0.png": {
 			"md5": "9a1fe9a0e5de177415aef6728c4ad27b"
@@ -1381,9 +1258,6 @@
 		"res/data/10047/10047-2.png": {
 			"md5": "a14c5a525757eadb8a2620a3e61676d2"
 		},
-		"res/data/10047/10047.bin": {
-			"md5": "39a18756e3c0538dd036aae2ec027d22"
-		},
 		"res/data/10048/10048-0.png": {
 			"md5": "c1aad8657b4a2d21815c0eb782c65a4e"
 		},
@@ -1392,9 +1266,6 @@
 		},
 		"res/data/10048/10048-2.png": {
 			"md5": "c01dadfa8b995bca3ff773ef428f23bd"
-		},
-		"res/data/10048/10048.bin": {
-			"md5": "aa7fbd67a259ea0dc9a1fb6985de133a"
 		},
 		"res/data/10049/10049-0.png": {
 			"md5": "9e2e291df951e0890eb47b57d34799d8"
@@ -1408,9 +1279,6 @@
 		"res/data/10049/10049-3.png": {
 			"md5": "72f05891bd94cabe9b4663ba4ebc0a5b"
 		},
-		"res/data/10049/10049.bin": {
-			"md5": "f5e0addbff6f27e04468c954be98d5fe"
-		},
 		"res/data/10050/10050-0.png": {
 			"md5": "286a61d6df6a8a78c1013730c8c8bf52"
 		},
@@ -1419,9 +1287,6 @@
 		},
 		"res/data/10050/10050-2.png": {
 			"md5": "3e5c23e846b969bb76ad8fef65db8116"
-		},
-		"res/data/10050/10050.bin": {
-			"md5": "fa7b5fd810e04f1241e9036b407b00fc"
 		},
 		"res/data/10052/10052-0.png": {
 			"md5": "f66c41cc85ae87b4a732f6712859bcf7"
@@ -1432,9 +1297,6 @@
 		"res/data/10052/10052-2.png": {
 			"md5": "85a4f54167778cddd5ce3bb63db39565"
 		},
-		"res/data/10052/10052.bin": {
-			"md5": "b17c69985ff1f68b5dd1746df195cf50"
-		},
 		"res/data/10053/10053-0.png": {
 			"md5": "85d43eb336c4e627c31dc86fd74ec4f0"
 		},
@@ -1443,9 +1305,6 @@
 		},
 		"res/data/10053/10053-2.png": {
 			"md5": "50053e57be112d55d456e2057a954081"
-		},
-		"res/data/10053/10053.bin": {
-			"md5": "baa394e4f46fc3f18b3ca968adfefab7"
 		},
 		"res/data/10054/10054-0.png": {
 			"md5": "eee156f58be2323c17e401b6fec337e1"
@@ -1459,9 +1318,6 @@
 		"res/data/10054/10054-3.png": {
 			"md5": "4d7bca69e908cc1d6a5c8e8cf79817dc"
 		},
-		"res/data/10054/10054.bin": {
-			"md5": "a43d705a5bc1d1a8e648a7d440883a98"
-		},
 		"res/data/10055/10055-0.png": {
 			"md5": "ee3899c2046bf6dc58fd897a1482992d"
 		},
@@ -1474,9 +1330,6 @@
 		"res/data/10055/10055-3.png": {
 			"md5": "37bbcb5205ec45d562672163a9b6e33c"
 		},
-		"res/data/10055/10055.bin": {
-			"md5": "3270936bb81a18d71423be4c625fe7f8"
-		},
 		"res/data/10057/10057-0.png": {
 			"md5": "7e6c37af247a94a5e0db53b1885fdd51"
 		},
@@ -1486,9 +1339,6 @@
 		"res/data/10057/10057-2.png": {
 			"md5": "8d01c337a64ed5f1a4a155a032af5f4d"
 		},
-		"res/data/10057/10057.bin": {
-			"md5": "2dda4e687927ce8de9767af7dd8c74a6"
-		},
 		"res/data/10058/10058-0.png": {
 			"md5": "c5edcd6a304412bb21a2c41cde6e1c2f"
 		},
@@ -1497,9 +1347,6 @@
 		},
 		"res/data/10058/10058-2.png": {
 			"md5": "de4380756ca6615fcb5362d42d601dae"
-		},
-		"res/data/10058/10058.bin": {
-			"md5": "cdd5d51284bb3e8f7377fe4b119587a9"
 		},
 		"res/data/10060/10060-0.png": {
 			"md5": "2610dda867019a77315a0843ef6a0ec5"
@@ -1513,9 +1360,6 @@
 		"res/data/10060/10060-3.png": {
 			"md5": "6cf6779d2d9367d02838395bcb2fc120"
 		},
-		"res/data/10060/10060.bin": {
-			"md5": "51356eea2893615fb4575722f200dfbe"
-		},
 		"res/data/10067/10067-0.png": {
 			"md5": "069331284860349004692645b4d33aea"
 		},
@@ -1528,9 +1372,6 @@
 		"res/data/10067/10067-3.png": {
 			"md5": "67dbbc5d65441b3219672aff7bec0c27"
 		},
-		"res/data/10067/10067.bin": {
-			"md5": "da1d6dde814e8e1e5c7f66e9ad5604b7"
-		},
 		"res/data/10068/10068-0.png": {
 			"md5": "85c70e75a4ad45f6e0ffa8bd9270e60b"
 		},
@@ -1540,9 +1381,6 @@
 		"res/data/10068/10068-2.png": {
 			"md5": "029c253d48a7139ddce8b8b5fb0c4660"
 		},
-		"res/data/10068/10068.bin": {
-			"md5": "f54221126165a75f10a4edbc672168fb"
-		},
 		"res/data/10069/10069-0.png": {
 			"md5": "a210643e48d80484be9ada6a91517ca6"
 		},
@@ -1551,9 +1389,6 @@
 		},
 		"res/data/10069/10069-2.png": {
 			"md5": "714bba237d4b719f7b5aba48018a3fc1"
-		},
-		"res/data/10069/10069.bin": {
-			"md5": "31a6a35d0cfdccaa1680f380cbeb1cf4"
 		},
 		"res/data/10070/10070-0.png": {
 			"md5": "04549a21b3bfbf04e34e196f4ba52c0f"
@@ -1570,9 +1405,6 @@
 		"res/data/10070/10070-4.png": {
 			"md5": "faa5940501b3d9cabe5065038c693e35"
 		},
-		"res/data/10070/10070.bin": {
-			"md5": "3896d6c2eb52e54adb48f120e9ce09c9"
-		},
 		"res/data/10071/10071-0.png": {
 			"md5": "d6dad177ed3625477719e214f63735dc"
 		},
@@ -1582,9 +1414,6 @@
 		"res/data/10071/10071-2.png": {
 			"md5": "3c9e8d618e2943e0e66c328615d2a624"
 		},
-		"res/data/10071/10071.bin": {
-			"md5": "eec39a723c83102c23758c15d04903d2"
-		},
 		"res/data/10072/10072-0.png": {
 			"md5": "32941c74f3ce8bfd50ed4a4de42b4139"
 		},
@@ -1593,9 +1422,6 @@
 		},
 		"res/data/10072/10072-2.png": {
 			"md5": "9e8ed60613c46f6ac250082fb646de79"
-		},
-		"res/data/10072/10072.bin": {
-			"md5": "50fa13e7a6c7877faea1d6676d02da16"
 		},
 		"res/data/10073/10073-0.png": {
 			"md5": "96829d0027bc456dca270105618d228e"
@@ -1609,9 +1435,6 @@
 		"res/data/10073/10073-3.png": {
 			"md5": "b656133c4e43b279aa11cfd58c24f2c3"
 		},
-		"res/data/10073/10073.bin": {
-			"md5": "737e06c686729baef1171dc1edcf1806"
-		},
 		"res/data/10074/10074-0.png": {
 			"md5": "bce319fcad088fdf5a539219d3c30627"
 		},
@@ -1624,9 +1447,6 @@
 		"res/data/10074/10074-3.png": {
 			"md5": "b1387fa7915cc05f0dae8e952e51903b"
 		},
-		"res/data/10074/10074.bin": {
-			"md5": "7899ff9fa66cf1d5ee2f4f14d603a5b6"
-		},
 		"res/data/10075/10075-0.png": {
 			"md5": "7b2593598a414898018b8871fe7942bd"
 		},
@@ -1635,9 +1455,6 @@
 		},
 		"res/data/10075/10075-2.png": {
 			"md5": "3e0dcb8551de3b0716df55b8b21ca5ab"
-		},
-		"res/data/10075/10075.bin": {
-			"md5": "ce20289cadfb5ffca155ee6a3a0ff9ab"
 		},
 		"res/data/10076/10076-0.png": {
 			"md5": "271033e62b3d31dd488809a12a15e07d"
@@ -1651,9 +1468,6 @@
 		"res/data/10076/10076-3.png": {
 			"md5": "4fc9ef3f03c22caacea8dbc59d130aea"
 		},
-		"res/data/10076/10076.bin": {
-			"md5": "2a1850c7154be5dfda1de88f7b4de385"
-		},
 		"res/data/10077/10077-0.png": {
 			"md5": "385ba24f6f3f57901d8c8647281e53af"
 		},
@@ -1662,9 +1476,6 @@
 		},
 		"res/data/10077/10077-2.png": {
 			"md5": "a629d0005522d4f52f84619f455708b0"
-		},
-		"res/data/10077/10077.bin": {
-			"md5": "c2f05ab59879d707393bfebf517c6747"
 		},
 		"res/data/10078/10078-0.png": {
 			"md5": "d39edd0f2b6148e7b7a17812dde0d20d"
@@ -1675,9 +1486,6 @@
 		"res/data/10078/10078-2.png": {
 			"md5": "8c71c30d47eaf9caf9d1ae6511e0e23a"
 		},
-		"res/data/10078/10078.bin": {
-			"md5": "07bb408a1a0bab9b0e7a1c800e354b01"
-		},
 		"res/data/10079/10079-0.png": {
 			"md5": "4ebeac6daceb6eeef6980d225c363fb2"
 		},
@@ -1686,9 +1494,6 @@
 		},
 		"res/data/10079/10079-2.png": {
 			"md5": "6867ff2e54f5c654f8a7a2bf5fd9a1b6"
-		},
-		"res/data/10079/10079.bin": {
-			"md5": "cfb52a404b723e42dc237b8a02b7a2f0"
 		},
 		"res/data/10080/10080-0.png": {
 			"md5": "47315c316a3abc1ec7b9fb67a16da5d5"
@@ -1705,9 +1510,6 @@
 		"res/data/10080/10080-4.png": {
 			"md5": "aebbddd42a5b22b694ffb6d673ac4fd9"
 		},
-		"res/data/10080/10080.bin": {
-			"md5": "e0ee687a6591d19691e3190baccf8f14"
-		},
 		"res/data/10081/10081-0.png": {
 			"md5": "d08257b093211ff81d11c04340eb7c67"
 		},
@@ -1717,9 +1519,6 @@
 		"res/data/10081/10081-2.png": {
 			"md5": "77f20eb8ceb06de66eafb809843a1487"
 		},
-		"res/data/10081/10081.bin": {
-			"md5": "b344f3da2bced5589e0acf3b300bf949"
-		},
 		"res/data/10082/10082-0.png": {
 			"md5": "b25e7011a99431fdb43ff341624f156a"
 		},
@@ -1728,9 +1527,6 @@
 		},
 		"res/data/10082/10082-2.png": {
 			"md5": "6aea8bee06758fa943a6ed919fedc0d7"
-		},
-		"res/data/10082/10082.bin": {
-			"md5": "ff2f511a8806ee0c4dce7fdf649e8105"
 		},
 		"res/data/10083/10083-0.png": {
 			"md5": "542446efd9c686b0a32cdd7996a0b1d7"
@@ -1747,9 +1543,6 @@
 		"res/data/10083/10083-4.png": {
 			"md5": "33111411100531ff458139b0a508e6cd"
 		},
-		"res/data/10083/10083.bin": {
-			"md5": "1cf7fce3b096e656c74cde4f6cd4afb7"
-		},
 		"res/data/10084/10084-0.png": {
 			"md5": "5e7f07dce72b93bc3f28f7d74faef53e"
 		},
@@ -1761,9 +1554,6 @@
 		},
 		"res/data/10084/10084-3.png": {
 			"md5": "f24276cbb1070062dd20097dd5971251"
-		},
-		"res/data/10084/10084.bin": {
-			"md5": "97d2090fd3bafe2e4895bb5f6962b3fd"
 		},
 		"res/data/10085/10085-0.png": {
 			"md5": "76a0d50830d6a86c798214508ae523f3"
@@ -1777,9 +1567,6 @@
 		"res/data/10085/10085-3.png": {
 			"md5": "60055b60a385d278102d411949e9b78c"
 		},
-		"res/data/10085/10085.bin": {
-			"md5": "6f653bea75eadf173999da754af5308a"
-		},
 		"res/data/10086/10086-0.png": {
 			"md5": "2de0cc3139441e6ba817c84fa97ae932"
 		},
@@ -1791,9 +1578,6 @@
 		},
 		"res/data/10086/10086-3.png": {
 			"md5": "498a93f2f8d33178744848a3996e8ad7"
-		},
-		"res/data/10086/10086.bin": {
-			"md5": "1c296cc9ce65fad7c2efce38ba8443c6"
 		},
 		"res/data/10087/10087-0.png": {
 			"md5": "57f39b544b8f353d5f36aed50238c553"
@@ -1807,9 +1591,6 @@
 		"res/data/10087/10087-3.png": {
 			"md5": "87f22c0dcc35ff549e0f8e1855a66b35"
 		},
-		"res/data/10087/10087.bin": {
-			"md5": "f1ed7289b08a7087b342a6b1c648ae78"
-		},
 		"res/data/10088/10088-0.png": {
 			"md5": "290479c17876400326bcd6021e2f9101"
 		},
@@ -1818,9 +1599,6 @@
 		},
 		"res/data/10088/10088-2.png": {
 			"md5": "b3f011ae7989c1e9f0a06bca5229bab3"
-		},
-		"res/data/10088/10088.bin": {
-			"md5": "cbe37d9eab4ecc3d9ef862b37e0dae90"
 		},
 		"res/data/10089/10089-0.png": {
 			"md5": "595cfabb576882489df50e9f63036ff1"
@@ -1831,9 +1609,6 @@
 		"res/data/10089/10089-2.png": {
 			"md5": "88064fafc6c4e0da9f33601fd6454e42"
 		},
-		"res/data/10089/10089.bin": {
-			"md5": "6622cd97640b91ce92152ae6edaafc0b"
-		},
 		"res/data/10090/10090-0.png": {
 			"md5": "75e166caf3faed69227ca674d049ab42"
 		},
@@ -1842,9 +1617,6 @@
 		},
 		"res/data/10090/10090-2.png": {
 			"md5": "4a9ff45a4d44617295678e752ce82436"
-		},
-		"res/data/10090/10090.bin": {
-			"md5": "db6bcf4d2755f26bbcafc764a80ab2fa"
 		},
 		"res/data/10091/10091-0.png": {
 			"md5": "c10608b5d319b3821e09c3fd5ac600ac"
@@ -1855,9 +1627,6 @@
 		"res/data/10091/10091-2.png": {
 			"md5": "c53eed4941dcecfaf3c10a38c0b72a67"
 		},
-		"res/data/10091/10091.bin": {
-			"md5": "bd473e5ebde7ade4aa18b342d1ea5798"
-		},
 		"res/data/10092/10092-0.png": {
 			"md5": "e333526d72430e5a003e193f9cac22e4"
 		},
@@ -1866,9 +1635,6 @@
 		},
 		"res/data/10092/10092-2.png": {
 			"md5": "0b2c24038884419eaa7f33806e067bb6"
-		},
-		"res/data/10092/10092.bin": {
-			"md5": "28e4152bb9ef4c6d7ab37c95bee85614"
 		},
 		"res/data/10093/10093-0.png": {
 			"md5": "3a134ff597beac199e0c4e9ed57cad44"
@@ -1885,9 +1651,6 @@
 		"res/data/10093/10093-4.png": {
 			"md5": "536fb978fb4228a8a6f1b0fc91105349"
 		},
-		"res/data/10093/10093.bin": {
-			"md5": "58ec25a447b1adab7dff852f87eb9fc9"
-		},
 		"res/data/10094/10094-0.png": {
 			"md5": "9a7c8d108e33126a808362cb185cf027"
 		},
@@ -1896,9 +1659,6 @@
 		},
 		"res/data/10094/10094-2.png": {
 			"md5": "6b903358938a029ebb06a21c410fd093"
-		},
-		"res/data/10094/10094.bin": {
-			"md5": "e8f1aebb14d063128059ef8a1a2d5c04"
 		},
 		"res/data/10095/10095-0.png": {
 			"md5": "9f6fe551257ae4f44058abd35fbd99ba"
@@ -1909,9 +1669,6 @@
 		"res/data/10095/10095-2.png": {
 			"md5": "e5d137256961c28b3252959975230e04"
 		},
-		"res/data/10095/10095.bin": {
-			"md5": "0dd3adad41f71da4e60c52790d3965cd"
-		},
 		"res/data/10096/10096-0.png": {
 			"md5": "7739f32858459e3a398d30e4a4654840"
 		},
@@ -1921,9 +1678,6 @@
 		"res/data/10096/10096-2.png": {
 			"md5": "3b986814806cb829c92af5466368771f"
 		},
-		"res/data/10096/10096.bin": {
-			"md5": "3189dab7a33ad62ec28149a1ef90c5d0"
-		},
 		"res/data/10097/10097-0.png": {
 			"md5": "e3d938263cf9f16fa892ea0e2a7aa047"
 		},
@@ -1932,9 +1686,6 @@
 		},
 		"res/data/10097/10097-2.png": {
 			"md5": "9f383150eb3394b438ecc726f39db48c"
-		},
-		"res/data/10097/10097.bin": {
-			"md5": "fa2a53be0f3810a05e3982c30584fbea"
 		},
 		"res/data/10098/10098-0.png": {
 			"md5": "6d7c76a775c99eb262265dd159c3d626"
@@ -1948,9 +1699,6 @@
 		"res/data/10098/10098-3.png": {
 			"md5": "68a4e035464e6856516de7dad7dc18b0"
 		},
-		"res/data/10098/10098.bin": {
-			"md5": "264a3a3323d1242826c063594e22715b"
-		},
 		"res/data/10099/10099-0.png": {
 			"md5": "7c0204bc2ae28b94f76c8969015db587"
 		},
@@ -1962,9 +1710,6 @@
 		},
 		"res/data/10099/10099-3.png": {
 			"md5": "20a28f5a81df3b1b0b6f1db84d308a83"
-		},
-		"res/data/10099/10099.bin": {
-			"md5": "00e392ca9e479b03b048929ad0b03aad"
 		},
 		"res/data/10100/10100-0.png": {
 			"md5": "b8bc6361ccd8a9aa203bafdb3a8e23e9"
@@ -1978,9 +1723,6 @@
 		"res/data/10100/10100-3.png": {
 			"md5": "446d2d73172b1739f28bad0d3ca39d2c"
 		},
-		"res/data/10100/10100.bin": {
-			"md5": "83565f545bbd401e7c227aa7e988da87"
-		},
 		"res/data/10101/10101-0.png": {
 			"md5": "681476fa3e035a72c314b0920ad138fd"
 		},
@@ -1992,9 +1734,6 @@
 		},
 		"res/data/10101/10101-3.png": {
 			"md5": "d7f61a0a81d544f36f93014e2ae80f39"
-		},
-		"res/data/10101/10101.bin": {
-			"md5": "d8a06268d35feb4818039dc9cb649227"
 		},
 		"res/data/10106/10106-0.png": {
 			"md5": "1a1203d6917785237ffe8d63e0dece83"
@@ -2008,9 +1747,6 @@
 		"res/data/10106/10106-3.png": {
 			"md5": "5a3ce13d9818e43ec894c28c345b9b61"
 		},
-		"res/data/10106/10106.bin": {
-			"md5": "eb78426e457318f7c463d4a67b89e1f3"
-		},
 		"res/data/10107/10107-0.png": {
 			"md5": "ef4fc3e2fe0e6f1d2e03e73d9dfa60e5"
 		},
@@ -2020,17 +1756,11 @@
 		"res/data/10107/10107-2.png": {
 			"md5": "289bceab53c660e96138fff2921b140c"
 		},
-		"res/data/10107/10107.bin": {
-			"md5": "1d3f1cd1deb077bdf46f3b8ac931ad58"
-		},
 		"res/data/10108/10108-0.png": {
 			"md5": "51896673ec2e5ea2e8f7e5db227e141a"
 		},
 		"res/data/10108/10108-1.png": {
 			"md5": "cfa712b1f267dd457e5e26aa7f1091a5"
-		},
-		"res/data/10108/10108.bin": {
-			"md5": "886b616a1edb4da308d93aff082738af"
 		},
 		"res/db_gba": {
 			"md5": "9746094c25937c2fff0e43726e768865"
@@ -3068,7 +2798,7 @@
 			"md5": "a5ac3c764f2594877255413b1827adf3"
 		},
 		"res/UI/Dialog.json": {
-			"md5": "5a8f92ccdc35edf17da71f5b72ac4457"
+			"md5": "7a969c884f8f77186329128e8927e143"
 		},
 		"res/UI/digital_control/.DS_Store": {
 			"md5": "64040a438a21a4784d4ec9de53b360ef"
@@ -3146,7 +2876,7 @@
 			"md5": "e397108334c90021ef9b65f8b4eec52c"
 		},
 		"res/UI/Home.json": {
-			"md5": "e9fa9965b851337d84e33d8ed4a79479"
+			"md5": "b7058d0e3862b3024d100de28c49a809"
 		},
 		"res/UI/HomeP.json": {
 			"md5": "050baaeb1a63b3d8d3741fc23990258c"
@@ -3212,7 +2942,7 @@
 			"md5": "efc246ed8a4f86380fe26d54578f5d7e"
 		},
 		"res/UI/StartupScene.json": {
-			"md5": "b2641c115c8aa04a1c98f132dd9708c9"
+			"md5": "f578ce1dc4a8544e93a7c97a842d39df"
 		},
 		"res/UI/store/.DS_Store": {
 			"md5": "64f9f3e2d7f7e22000a2a2b3ebdd36c3"
@@ -3608,7 +3338,7 @@
 			"md5": "a8cdb0eefca497a5ed04c2f859e0796f"
 		},
 		"src/framework/Framework.js": {
-			"md5": "2119c0340a95e7f4c35586b36190f8c9"
+			"md5": "eed08d7202f2e3f45246e4d4f9864ac4"
 		},
 		"src/framework/gui/Avatar.js": {
 			"md5": "edfc51db66d2fb8e788419542cad6db3"
@@ -3737,7 +3467,7 @@
 			"md5": "1fbbf170a6d2ee95f160f83dbb1b7ca0"
 		},
 		"src/NES/adsMgr.js": {
-			"md5": "911565baca56738cecc202c8a802b4bb"
+			"md5": "ab9d07e958d1d99e7436273ea7d5bac6"
 		},
 		"src/NES/Constant.js": {
 			"md5": "984b0650a459cc26a21e1eb6975f4dff"
@@ -3776,34 +3506,34 @@
 			"md5": "b5e54ca678dc4b43dafc0d95057029ac"
 		},
 		"src/NES/Game/GameLayer.js": {
-			"md5": "99e3ec65f29056b22e9e4b611e0a01ff"
+			"md5": "4393f8d95b7ba11bcbed7762589d7a11"
 		},
 		"src/NES/Game/Joystick.js": {
 			"md5": "6a2f104b473407b712a671a9dd9c6616"
 		},
 		"src/NES/gamedata.js": {
-			"md5": "ef549856b2724310c73c777afb469faa"
+			"md5": "360a800b1a9c5441d41b730c60f8c446"
 		},
 		"src/NES/Home/FindROMLayer.js": {
 			"md5": "f69b6f8d5f61229b7fa33bca63855a9d"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "0017abeff80be27fcbd07cc59ce2cea7"
+			"md5": "3a5efc60d1b2c99df0c1624220c13628"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "717ba7d43eb0e58e3056d79e77019072"
 		},
 		"src/NES/Home/ListRomGBALayer.js": {
-			"md5": "7aeac1ce5fb9a989a322d53333078a2d"
+			"md5": "87ca5d95f937b389f3f17c5ebe45ab7e"
 		},
 		"src/NES/Home/ListRomLayer.js": {
-			"md5": "383ffbcba800045c52b79844320c309a"
+			"md5": "e3bdf275f230ae7eba297db3f02df9d8"
 		},
 		"src/NES/Home/ListRomSNESLayer.js": {
-			"md5": "882bc42551aadd2855fab889540b03f8"
+			"md5": "3b966c0bf079d1c37a07c132a6efb6e3"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "a0e9e53f0f18ddea9e599c223f082701"
+			"md5": "a45c7d93de688f3f90e219559e40c48a"
 		},
 		"src/NES/Home/RemoveADSLayer.js": {
 			"md5": "44f7b8888236dbe6e2b513af38a58197"
@@ -3812,7 +3542,7 @@
 			"md5": "a0a9a7b4c095e67c4d6553768d6fa748"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "b9f64cf590a36c8f8d68c18b1dbf0273"
+			"md5": "83b042e2615f6934ea3d987733ab8877"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "c74a43dd932c868130668a658bceabcd"
@@ -3821,7 +3551,7 @@
 			"md5": "33dda69b919c6ba1f2783deb72257d8b"
 		},
 		"src/NES/logic/datamanager.js": {
-			"md5": "e4f79f7f8134e4b5443f97018de8cc2f"
+			"md5": "ac0b23a9ac8b4bfafa612fae5c45bc18"
 		},
 		"src/NES/logic/downloadMgr.js": {
 			"md5": "a0b5f4190fc5a7c4cbbef48a90e94b54"
@@ -3833,16 +3563,16 @@
 			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
 		},
 		"src/NES/tracking.js": {
-			"md5": "5fdabcb1cbc0c29b1085f23fe12d5071"
+			"md5": "13cbead72fa94df009e2fa71c3fb70fd"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "7f25d89858e8cb310d566f1c7fcbc518"
 		},
 		"src/NES/UI/Dialog.js": {
-			"md5": "e26b43aad3408bdf762385f1271e6d56"
+			"md5": "fa33914ddbfa135ab4f30d176b0430fa"
 		},
 		"src/NES/UI/OptionLayer.js": {
-			"md5": "030f220e24b6f8950025b0992967ca30"
+			"md5": "895a27766f8ede59826d56991a83ac1c"
 		},
 		"src/plugin/Facebook.js": {
 			"md5": "f6d6cf699715410479f90a8d087baffb"
