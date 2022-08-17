@@ -3467,7 +3467,7 @@
 			"md5": "1fbbf170a6d2ee95f160f83dbb1b7ca0"
 		},
 		"src/NES/adsMgr.js": {
-			"md5": "ab9d07e958d1d99e7436273ea7d5bac6"
+			"md5": "8482e686d9c396f602f5d83f8dbd38fe"
 		},
 		"src/NES/Constant.js": {
 			"md5": "984b0650a459cc26a21e1eb6975f4dff"
@@ -3572,7 +3572,7 @@
 			"md5": "fa33914ddbfa135ab4f30d176b0430fa"
 		},
 		"src/NES/UI/OptionLayer.js": {
-			"md5": "895a27766f8ede59826d56991a83ac1c"
+			"md5": "639de08e5a11758c8a53c37ca832dae8"
 		},
 		"src/plugin/Facebook.js": {
 			"md5": "f6d6cf699715410479f90a8d087baffb"
