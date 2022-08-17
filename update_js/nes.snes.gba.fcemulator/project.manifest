@@ -3124,9 +3124,6 @@
 		"script/debugger/main.js": {
 			"md5": "22d97665777eaf324b22116257aeda62"
 		},
-		"script/debugger/README.md": {
-			"md5": "eb2123063a3aa5656e6f9204ccc14943"
-		},
 		"script/debugger/transport.js": {
 			"md5": "3e0b0537fcd078da4221a645b234a774"
 		},
@@ -3407,7 +3404,7 @@
 			"md5": "9ae9142864c144f2b3cef78a2af1ba6b"
 		},
 		"src/framework/plugins/PlatformWrapper.js": {
-			"md5": "cfd82dda8f5683185ab3d4f470179db0"
+			"md5": "6dac5f7d8c01b7f19a5dce708d2297bf"
 		},
 		"src/framework/plugins/Portal.js": {
 			"md5": "e943e77a0f1944259e0dc8f1b1a766bd"
@@ -3542,7 +3539,7 @@
 			"md5": "a0a9a7b4c095e67c4d6553768d6fa748"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "83b042e2615f6934ea3d987733ab8877"
+			"md5": "b3cf932c536d87442c1012630bc05524"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "c74a43dd932c868130668a658bceabcd"
