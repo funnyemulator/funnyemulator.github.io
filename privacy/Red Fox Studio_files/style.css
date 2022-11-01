@@ -1,0 +1,742 @@
+.navbar-inverse {
+    background: #fff;
+}
+
+.container-fluid {
+    max-width: 1080px;
+    padding-right: 0px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #1e8bba;
+    font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #17f7f9;
+}
+
+@media (min-width: 768px) {
+    ul.navbar-right li {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width: 768px) {
+    .icon-common {
+        margin-left: 15px;
+    }
+}
+
+@media (max-width: 767px) {
+    .styl-contact {
+        margin-left: 20px;
+    }
+}
+
+.styl-contact {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.icon-android {
+    width: 25px;
+    height: 25px;
+    background: url(../img/trang-chu/icon_android.png) no-repeat center;
+    background-size: contain;
+    position: absolute;
+    top: 42px;
+}
+
+.icon-ios {
+    width: 25px;
+    height: 25px;
+    background: url(../img/trang-chu/icon_ios.png) no-repeat center;
+    background-size: contain;
+    position: absolute;
+    top: 42px;
+    left: 40px;
+}
+
+.icon-huawei {
+    width: 30px;
+    height: 30px;
+    background: url(../img/trang-chu/icon_huawei.png) no-repeat center;
+    background-size: contain;
+    position: absolute;
+    top: 40px;
+    left: 85px;
+}
+
+.icon-huawei2 {
+    width: 30px;
+    height: 30px;
+    background: url(../img/trang-chu/icon_huawei.png) no-repeat center;
+    background-size: contain;
+    position: absolute;
+    top: 40px;
+    left: 45px;
+}
+
+.icon-game1 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/falcon-squad.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game2 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/1945.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game3 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/bob.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game4 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/1942.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game5 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/metal-wing.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game6 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/stick.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game7 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/stick-bow.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game8 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/galaxiga.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game9 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/alien-war.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game10 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/stick-hero.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game11 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/color-push.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game12 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/galaxy_shooter.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game13 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/block-cute.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game14 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/2048.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game15 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/galaxy-defender.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game16 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/block-buddies.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-game17 {
+    width: 70px;
+    height: 70px;
+    background: url(../img/icon-game/stick-battle.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-book {
+    width: 26px;
+    height: 20px;
+    background: url(../img/trang-chu/icon_book.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+}
+
+.icon-chart {
+    width: 23px;
+    height: 23px;
+    background: url(../img/trang-chu/icon_chart.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 13px;
+}
+
+.icon-save {
+    width: 20px;
+    height: 20px;
+    background: url(../img/trang-chu/icon_save.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-left: 3px;
+    margin-right: 14px;
+}
+
+.icon-mobile {
+    width: 15px;
+    height: 29px;
+    background: url(../img/trang-chu/icon_mobile.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+}
+
+.icon-person {
+    width: 15px;
+    height: 20px;
+    background: url(../img/trang-chu/icon_person.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+}
+
+.icon-rocket {
+    width: 13px;
+    height: 22px;
+    background: url(../img/trang-chu/icon_rocket.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+}
+
+.icon-phone {
+    width: 20px;
+    height: 20px;
+    background: url(../img/trang-chu/phone.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+}
+
+.icon-mail {
+    width: 20px;
+    height: 19px;
+    background: url(../img/trang-chu/mail.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+}
+
+.icon-location {
+    width: 20px;
+    height: 25px;
+    background: url(../img/trang-chu/location.png) no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+}
+
+.icon-common {
+    margin-top: 10px;
+    width: 35px;
+    height: 26px;
+}
+
+.icon-us {
+    background: url(../img/trang-chu/us.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-vn {
+    background: url(../img/trang-chu/vn.png) no-repeat center;
+    background-size: contain;
+    margin-right: 10px;
+}
+
+.icon-logo {
+    width: 200px;
+    height: 74px;
+    background: url(../img/trang-chu/logo_2.png) no-repeat center;
+    background-size: contain;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.icon-logo2 {
+    width: 100%;
+    height: 140px;
+    background: url(../img/trang-chu/logo.png) no-repeat center;
+    background-size: contain;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.icon-falcon {
+    width: 100%;
+    height: 183px;
+    background: url(../img/trang-chu/icon_falcon.png) no-repeat center;
+    background-size: contain;
+}
+
+.img-content1 {
+    width: 100%;
+    height: 492px;
+    background: url(../img/trang-chu/img_content1.png) no-repeat center;
+    background-size: contain;
+}
+
+.img-content2 {
+    width: 100%;
+    height: 498px;
+    background: url(../img/trang-chu/img_content2.png) no-repeat center;
+    background-size: contain;
+}
+
+.slide-left {
+    width: 100%;
+    height: 473px;
+    background: url(../img/trang-chu/slide-left.png) no-repeat center;
+    background-size: contain;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.slide-right {
+    width: 100%;
+    height: 473px;
+    background: url(../img/trang-chu/slide-right.png) no-repeat center;
+    background-size: contain;
+}
+
+.icon-publish1 {
+    width: 86px;
+    height: 80px;
+    background: url(../img/trang-chu/icon_publish1.png) no-repeat center;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.icon-publish2 {
+    width: 87px;
+    height: 68px;
+    background: url(../img/trang-chu/icon_publish2.png) no-repeat center;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.icon-publish3 {
+    width: 86px;
+    height: 86px;
+    background: url(../img/trang-chu/icon_publish3.png) no-repeat center;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+}
+
+.styl-footer {
+    max-width: 1080px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.styl-banner {
+    max-width: 1080px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.styl-content {
+    max-width: 1080px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.styl-submit {
+    max-width: 1080px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.styl-nav {
+    border-bottom: 3px solid #2080b0;
+}
+
+.styl-success {
+    color: #019601;
+    font-size: 18px;
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+
+.styl-error {
+    color: #ff0000;
+    font-size: 18px;
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+
+.styl-career {
+    margin-top: 30px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.styl-result {
+    position: absolute;
+    left: 45%;
+    top: 180px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.frame-footer {
+    background: #1eabe8;
+    padding: 15px;
+}
+
+.frame-footer2 {
+    background: #1c8cbd;
+    padding: 15px;
+    height: 50px;
+}
+
+.frame-video {
+    background: #9e9e9e;
+    padding: 5px 5px 0px 5px;
+}
+
+.frame-banner {
+    background: #ccc;
+}
+
+.frame-content {
+    background: #fff;
+    padding: 15px;
+}
+
+.frame-data {
+    background: #fff;
+    padding: 15px;
+    min-height: 768px;
+}
+
+.frame-submit {
+    background: #f39c15;
+    padding: 15px;
+}
+
+.frame-publish {
+    background: #2e1764;
+}
+
+.txt-footer {
+    color: #fff;
+}
+
+.txt-bold {
+    font-weight: bold;
+}
+
+.txt-title {
+    color: #1eabe8;
+    font-size: 24px;
+}
+
+.txt-title2 {
+    font-weight: bold;
+    color: #6a6a6a;
+    font-size: 22px;
+}
+
+.txt-content1 {
+    font-weight: bold;
+    color: #6a6a6a;
+    font-size: 16px;
+}
+
+.txt-content2 {
+    color: #6a6a6a;
+}
+
+.txt-content3 {
+    font-style: italic;
+    color: #4c71b7;
+    text-decoration: underline;
+}
+
+.title-submit {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.txt-submit {
+    color: #fff;
+    line-height: 6px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.txt-publish {
+    padding-top: 80px;
+    color: #fff;
+}
+
+.txt-redirect {
+    color: #1eabe8;
+}
+
+.pad-content {
+    padding-top: 12%;
+}
+
+.pad-content2 {
+    padding-bottom: 50px;
+}
+
+.pad-item1 {
+    padding-top: 3px;
+}
+
+.mar-item1 {
+    margin-top: 10px;
+}
+
+.mar-item2 {
+    margin-top: 5px;
+}
+
+.mar-bot15 {
+    margin-bottom: 15px;
+}
+
+.mar-bot30 {
+    margin-bottom: 30px;
+}
+
+.title-video {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.title-item {
+    position: absolute;
+    left: 80px;
+    top: 0px;
+    width: 75%;
+}
+
+.title-publish {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.item-publish {
+    border: 1px solid #8144af;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    line-height: 25px;
+    height: 450px;
+}
+
+::placeholder {
+    color: #3a336d;
+}
+
+:-ms-input-placeholder {
+    color: #3a336d;
+}
+
+::-ms-input-placeholder {
+    color: #3a336d;
+}
+
+#myfile-error {
+    top: 30px;
+}
+
+.styl-input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 25px;
+    border: none;
+    margin-bottom: 30px;
+    font-style: italic;
+    color: #3a336d;
+    outline: none;
+}
+
+.styl-input.custom {
+    background: #ebebeb;
+}
+
+.styl-file {
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.btn-send {
+    width: 200px;
+    height: 50px;
+    background: #dc581a;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    outline: none;
+}
+
+.btn-send:hover {
+    background: #fb5202;
+}
+
+.btn-send.custom {
+    background: #39b54a;
+}
+
+.btn-send.custom:hover {
+    background: #05e624;
+}
+
+.btn-join {
+    width: 200px;
+    height: 60px;
+    background: url(../img/trang-chu/btn_join.png) no-repeat center;
+    background-size: contain;
+    position: absolute;
+    bottom: 20px;
+    left: calc(50% - 100px);
+}
+
+.btn-join.custom {
+    background: url(../img/trang-chu/btn_join_vn.png) no-repeat center;
+    background-size: contain;
+}
+
+label.error {
+    color: #ff0000;
+    position: absolute;
+    max-width: 100%;
+    left: 20px;
+    top: 48px;
+}
+
+.styl-upload {
+    height: 100px;
+    width: 100%;
+    padding: 12px;
+    border-radius: 25px;
+    border: none;
+    margin-bottom: 30px;
+    font-style: italic;
+    font-size: 17px;
+    color: #3a336d;
+    outline: none;
+    border-style: dashed;
+    background: #fff;
+    border-width: 1.5px;
+    border-color: #ccc;
+}
+
+.ver-footer {
+    border-left: 1px solid #fff;
+    height: 78%;
+    position: absolute;
+    right: 11%;
+    top: 20px;
+}
+
+.navbar-toggle {
+    background-color: #1eabe8;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #1eabe8;
+}
+
+.navbar-inverse .navbar-toggle:focus,
+.navbar-inverse .navbar-toggle:hover {
+    background-color: #277596;
+}
+
+.styl-tbl {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.styl-tbl td,
+.styl-tbl th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    word-break: break-all;
+}
+
+.styl-tbl tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.styl-tbl tr:hover {
+    background-color: #ddd;
+}
+
+.styl-tbl th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
